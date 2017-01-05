@@ -20,6 +20,8 @@
  */
 GIT_BEGIN_DECL
 
+/* Example git project */
+
 /**
  * Creates a `git_annotated_commit` from the given reference.
  * The resulting git_annotated_commit must be freed with

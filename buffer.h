@@ -18,6 +18,9 @@
  */
 GIT_BEGIN_DECL
 
+
+/* Added to change git bash  */
+
 /**
  * A data buffer for exporting data from libgit2
  *
