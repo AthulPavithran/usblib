@@ -5,6 +5,10 @@
  * a Linking Exception. For full terms see the included COPYING file.
  */
 
+
+/*test */
+
+
 #ifndef INCLUDE_git_git_h__
 #define INCLUDE_git_git_h__
 
